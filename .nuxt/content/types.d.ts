@@ -8,7 +8,16 @@ declare module '@nuxt/content' {
    * and run json-schema-to-typescript to regenerate this file.
    */
   
-  interface ContentCollectionItem extends PageCollectionItemBase {}
+  interface ContentCollectionItem extends PageCollectionItemBase {
+    title: string;
+    tl?: number;
+    credits?: string;
+    ship_day?: string;
+    quests?: {
+    name: string;
+    weeks: number;
+    }[];
+  }
   
 
   interface PageCollections {

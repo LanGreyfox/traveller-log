@@ -1428,7 +1428,7 @@ const _212itlAO5Bl7qXbaRpEz6kxL_hku0is2ApSo6wnz4 = (function(nitro) {
 
 const rootDir = "/home/ben/git/traveller-log";
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[],"style":[],"script":[],"noscript":[]};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"}],"link":[{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap"}],"style":[],"script":[],"noscript":[]};
 
 const appRootTag = "div";
 
@@ -1964,10 +1964,10 @@ async function decompressSQLDump(base64Str, compressionType = "gzip") {
 }
 
 const checksums = {
-  "content": "v3.5.0--LeC4ne4EeEuA_Z-L5Zn2o4Ei_-TwMe97LgV97nXeiEM"
+  "content": "v3.5.0--aR95Uiz1ZVNcoap96S4MovJnFbBdDdBwfcTikdWRYHU"
 };
 const checksumsStructure = {
-  "content": "bgIYhpjRuV8zbHJE_CfelwKpJ_Td6YuGJwixiek8lmI"
+  "content": "gOiweT3I65Y4ZplYrqMWx0wAcuXXeuh-NpUAQNtdT5A"
 };
 const tables = {
   "content": "_content_content",
@@ -1980,13 +1980,17 @@ const contentManifest = {
       "id": "string",
       "title": "string",
       "body": "json",
+      "credits": "string",
       "description": "string",
       "extension": "string",
       "meta": "json",
       "navigation": "json",
       "path": "string",
+      "quests": "json",
       "seo": "json",
-      "stem": "string"
+      "ship_day": "string",
+      "stem": "string",
+      "tl": "number"
     }
   },
   "info": {

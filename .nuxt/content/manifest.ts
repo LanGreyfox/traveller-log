@@ -1,8 +1,8 @@
 export const checksums = {
-  "content": "v3.5.0--LeC4ne4EeEuA_Z-L5Zn2o4Ei_-TwMe97LgV97nXeiEM"
+  "content": "v3.5.0--aR95Uiz1ZVNcoap96S4MovJnFbBdDdBwfcTikdWRYHU"
 }
 export const checksumsStructure = {
-  "content": "bgIYhpjRuV8zbHJE_CfelwKpJ_Td6YuGJwixiek8lmI"
+  "content": "gOiweT3I65Y4ZplYrqMWx0wAcuXXeuh-NpUAQNtdT5A"
 }
 
 export const tables = {
@@ -17,13 +17,17 @@ export default {
       "id": "string",
       "title": "string",
       "body": "json",
+      "credits": "string",
       "description": "string",
       "extension": "string",
       "meta": "json",
       "navigation": "json",
       "path": "string",
+      "quests": "json",
       "seo": "json",
-      "stem": "string"
+      "ship_day": "string",
+      "stem": "string",
+      "tl": "number"
     }
   },
   "info": {
