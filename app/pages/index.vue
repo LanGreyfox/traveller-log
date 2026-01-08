@@ -22,7 +22,7 @@ useSeoMeta({
   --traveller-bg: #0f0f0f;
   --traveller-border: #333;
   --traveler-done : #b7b7b7;
-  --font-main: 'Share Tech Mono', monospace; /* Ein technischer Font */
+  --font-main: 'Share Tech Mono', monospace; /* Technical font */
 }
 
 body {
@@ -32,24 +32,24 @@ body {
   line-height: 1.6;
   background-image: 
     radial-gradient(circle at 2px 2px, #222 1px, transparent 0);
-  background-size: 40px 40px; /* Dezentes Sternen-Raster */
+  background-size: 40px 40px; /* Star Background */
 }
 
-/* Container für den Content */
+/* Content Container */
 .content-wrapper {
-  max-width: 1000px; /* Oder deine gewünschte Breite */
-  margin: 40px auto; /* 'auto' links und rechts zentriert den Block horizontal */
+  max-width: 1000px; /* Content Width */
+  margin: 40px auto; /* 'auto' align horicontally */
   border-left: 4px solid var(--traveller-orange);
   background: rgba(20, 20, 20, 0.9);
   padding: 40px;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 
-  /* Damit der Inhalt innerhalb auch schön aussieht */
+  /* Flex content to look good*/
   display: flex;
   flex-direction: column;
 }
 
-/* Überschriften im Traveller-Look */
+/* Header in Traveller-Look */
 h1, h2, h3 {
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -60,7 +60,12 @@ h1, h2, h3 {
 
 h1 { font-size: 2.5rem; text-shadow: 2px 2px #000; }
 
-/* Styling für Tabellen (wichtig für Traveller Stats!) */
+a {
+    text-decoration: none;
+    color: var(--traveller-orange);
+}
+
+/* Styles for tables */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -80,7 +85,6 @@ td {
   border-bottom: 1px solid #222;
 }
 
-/* Akzente für Code/Ausrüstung */
 code {
   background: #222;
   color: var(--traveller-green);
@@ -88,7 +92,6 @@ code {
   border-radius: 3px;
 }
 
-/* Blockquotes für Flavour-Text */
 blockquote {
   border-left: 3px solid var(--traveller-green);
   margin: 20px 0;
@@ -97,9 +100,6 @@ blockquote {
   color: #aaa;
 }
 
-/* Spezifische Traveller-Module */
-
-/* Status-Leiste für Finanzen und Zeit */
 .status-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -126,7 +126,6 @@ blockquote {
   color: #fff;
 }
 
-/* Quest-Tracker */
 .quest-list {
   list-style: none;
   padding: 0;
@@ -149,7 +148,6 @@ blockquote {
   padding: 2px 8px;
 }
 
-/* Warnung wenn Quest fast abläuft */
 .urgent {
   border-left-color: #e74c3c;
   animation: pulse 2s infinite;

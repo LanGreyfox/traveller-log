@@ -48,10 +48,6 @@ location: Sektor Trojan Reach - The Borderlands - Sink
     <span>Sheryl besitzt ein Alten Artefakt (Artefakt)</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
-  <div class="quest-item done">
-    <span>Die Wahninnigen Urlauber auf Sperle</span>
-    <span class="quest-deadline">Abgeschlossen</span>
-  </div>
   <div class="quest-item">
     <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
     <span class="quest-deadline">Noch 39 Wochen</span>
@@ -79,5 +75,9 @@ location: Sektor Trojan Reach - The Borderlands - Sink
   <div class="quest-item">
     <span>Jonas McDorothy ist ein imperialer Agent und vermutlich hinter dem Altefakt her.</span>
     <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item done">
+    <span>Die Wahninnigen Urlauber auf Sperle</span>
+    <span class="quest-deadline">Abgeschlossen</span>
   </div>
 </div>
