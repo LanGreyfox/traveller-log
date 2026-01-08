@@ -1,7 +1,7 @@
 ---
 title: Far Trader White Brothers "Explosive Wale" FTD8D9377-9BA
 tl: 12
-location: Trojan Reach - The Borderlands - Sink
+location: Sektor Trojan Reach - The Borderlands - Sink
 ---
 
 # Schiffskonfiguration: {{ $doc.title }}
