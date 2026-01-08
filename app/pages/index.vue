@@ -21,6 +21,7 @@ useSeoMeta({
   --traveller-dark: #1a1a1a;
   --traveller-bg: #0f0f0f;
   --traveller-border: #333;
+  --traveler-done : #b7b7b7;
   --font-main: 'Share Tech Mono', monospace; /* Ein technischer Font */
 }
 
@@ -152,6 +153,12 @@ blockquote {
 .urgent {
   border-left-color: #e74c3c;
   animation: pulse 2s infinite;
+}
+
+.done {
+  border-left-color: var(--traveler-done);
+  opacity: 0.6;
+  text-decoration: line-through;
 }
 
 @keyframes pulse {

@@ -1,7 +1,7 @@
 ---
-title: Freihändler "Beowulf"
+title: Far Trader White Brothers "Explosive Wale" FTD8D9377-9BA
 tl: 12
-location: Spinward Marches
+location: Trojan Reach - The Borderlands - Sink
 ---
 
 # Schiffskonfiguration: {{ $doc.title }}
@@ -14,7 +14,7 @@ location: Spinward Marches
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
 
-# Schiffs-Logbuch: "The Far Horizon"
+# Schiffs-Logbuch: "Explosive Wale"
 
 <div class="status-grid">
   <div class="status-card">
@@ -30,9 +30,7 @@ location: Spinward Marches
 ## 📦 Aktuelle Ladung
 | Menge | Gut | Wert (geschätzt) | Herkunft |
 | :--- | :--- | :--- | :--- |
-| 10t | Luxus-Textilien | 80.000 Cr | Regina |
-| 2t | Medizinische Vorräte | 40.000 Cr | Efate |
-| 5t | Unidentifizierte Bauteile | ??? | Bergung |
+| 60t | Major Cargo | 264.000 Cr | Ergo |
 
 ## 🔨 Schiffsausrüstung
 * **Sensoren:** Improved (DM+1)
@@ -42,16 +40,44 @@ location: Spinward Marches
 
 ## 📌 Anstehende Missionen
 <div class="quest-list">
-  <div class="quest-item">
-    <span>Lieferung nach Knorren (Diplomatengepäck)</span>
-    <span class="quest-deadline">Noch 2 Wochen</span>
-  </div>
   <div class="quest-item urgent">
-    <span>Reparatur der Lebenserhaltung (Ersatzteilbeschaffung)</span>
-    <span class="quest-deadline">Dringend: 1 Woche</span>
+    <span>Beweise für den Verrat des Fetters an Klave finden. Er befindet sich auf Sink.</span>
+    <span class="quest-deadline">6 Wochen</span>
   </div>
   <div class="quest-item">
-    <span>Söldner-Vertrag: Aufklärung im Asteroidengürtel</span>
-    <span class="quest-deadline">Noch 5 Wochen</span>
+    <span>Sheryl besitzt ein Alten Artefakt (Artefakt)</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item done">
+    <span>Die Wahninnigen Urlauber auf Sperle</span>
+    <span class="quest-deadline">Abgeschlossen</span>
+  </div>
+  <div class="quest-item">
+    <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
+    <span class="quest-deadline">Noch 39 Wochen</span>
+  </div>
+  <div class="quest-item">
+    <span>Zoey ist das Ergebnis von Experimenten. Vielleicht ist jemand hinter ihr her</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>Mathew Ryle aka Mathias Rühl ist in der nähe des glorreichen Imperiums.</span>
+    <span class="quest-deadline">Noch 12 Wochen</span>
+  </div>
+  <div class="quest-item">
+    <span>3x S2 Schiffe der Gedeco jagen uns</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>Wir schulden dem UNiversum einen Tag</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>Impailer of Drinax Urheberrechtsverletzung von Runini.</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>Jonas McDorothy ist ein imperialer Agent und vermutlich hinter dem Altefakt her.</span>
+    <span class="quest-deadline">keine Deadline</span>
   </div>
 </div>
