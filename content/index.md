@@ -13,6 +13,7 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 | Hülle | 200 Tonnen |
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
+| Aktuelle Position | Sektor Trojan Reach - The Borderlands - Sink [Position](https://travellermap.com/?p=-91.881!13.585!7.7) |
 
 # Schiffs-Logbuch: "Explosive Wale"
 
