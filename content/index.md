@@ -1,5 +1,5 @@
 ---
-title: Far Trader White Brothers "Explosive Wale" FTD8D9377-9BA
+title: Far Trader A2L White Brothers "Explosive Wale" FTD8D9377-9BA
 tl: 12
 location: Sektor Trojan Reach - The Borderlands - Sink
 ---
@@ -10,7 +10,7 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 
 | Attribut | Wert |
 | :--- | :--- |
-| Hülle | 200 Tonnen |
+| Hülle | 300 Tonnen |
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
 | Aktuelle Position | Sektor Trojan Reach - The Borderlands - Sink [Position](https://travellermap.com/?p=-91.881!13.585!7.7) |
@@ -20,11 +20,11 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 <div class="status-grid">
   <div class="status-card">
     <h4>BORDKASSE</h4>
-    <div class="status-value">150.000 Cr</div>
+    <div class="status-value">1.233.400 Cr</div>
   </div>
   <div class="status-card">
     <h4>DATUM (Imperial)</h4>
-    <div class="status-value">110-1105</div>
+    <div class="status-value">8/1107</div>
   </div>
 </div>
 
@@ -34,10 +34,14 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 | 60t | Major Cargo | 264.000 Cr | Ergo |
 
 ## 🔨 Schiffsausrüstung
-* **Sensoren:** Improved (DM+1)
-* **Computer:** Model/1 bis (Rating 5)
-* **Waffen:** Duale Laser-Batterie (Turm Alpha)
-* **Software:** Library, Jump Control/2, Fire Control/1
+* **Panzerung** Level 4 Crystaliron
+* **Hardpoints** 3
+* **Waffenturm 1** 2x Beam Laser und Sandcaster Launcher
+* **Waffenturm 2** nichts installiert
+* **Sensoren:** Basic Civilian
+* **Computer:** Model/2 mit Sprung Programm Erweiterung und Crew Interaktion
+* **Software:** Intellect, Library, Jump Control/2, Fire Control/1, Manoeuvre
+* **Extras:** Medical Bay, Low Berths, Vehicle Hangar mit Air Raft, 
 
 ## 📌 Anstehende Missionen
 <div class="quest-list">
@@ -66,12 +70,16 @@ location: Sektor Trojan Reach - The Borderlands - Sink
     <span class="quest-deadline">keine Deadline</span>
   </div>
   <div class="quest-item">
-    <span>Wir schulden dem UNiversum einen Tag</span>
+    <span>Wir schulden dem Universum einen Tag</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
   <div class="quest-item">
     <span>Impailer of Drinax Urheberrechtsverletzung von Runini.</span>
     <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item urgent">
+    <span>Val Tredwell auf Axis treffen</span>
+    <span class="quest-deadline">9 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Jonas McDorothy ist ein imperialer Agent und vermutlich hinter dem Altefakt her.</span>
@@ -82,3 +90,10 @@ location: Sektor Trojan Reach - The Borderlands - Sink
     <span class="quest-deadline">Abgeschlossen</span>
   </div>
 </div>
+
+## Wall of Fame
+
+* Walter "Impailer" Mathews
+* Mrs. Syria Bairami
+* Sheryl Neville
+* Jana Tique
