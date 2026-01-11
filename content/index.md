@@ -4,7 +4,7 @@ tl: 12
 location: Sektor Trojan Reach - The Borderlands - Sink
 ---
 
-# Schiffskonfiguration: {{ $doc.title }}
+# {{ $doc.title }}
 
 > "In der Leere des Raums ist Treibstoff wichtiger als Sauerstoff."
 
@@ -31,9 +31,9 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 ## 📦 Aktuelle Ladung
 | Menge | Gut | Wert (geschätzt) | Herkunft |
 | :--- | :--- | :--- | :--- |
-| 60t | Major Cargo | 264.000 Cr | Ergo |
+| - | - | - | - |
 
-## 🔨 Schiffsausrüstung
+## 🔨 Schiffs-Ausrüstung
 * **Panzerung** Level 4 Crystaliron
 * **Hardpoints** 3
 * **Waffenturm 1** 2x Beam Laser und Sandcaster Launcher
@@ -43,14 +43,49 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 * **Software:** Intellect, Library, Jump Control/2, Fire Control/1, Manoeuvre
 * **Extras:** Medical Bay, Low Berths, Vehicle Hangar mit Air Raft, 
 
+## 🔫 Crew-Ausrüstung
+
+### Bewaffnung
+
+* **2x Body Pistol** Schaden 2D CSC 142, schwer aufzusprüten
+* **1x Gauss Pistol** Schaden 3D, Armor Piercing 3, Auto 2 CSC 143
+* **2x Shotgun** Schaden 4D, CSC 145, Bulky Range 50
+* **4x Auto Pistol** Schaden 3D - 3
+* **4x Blades** Schaden 2D CSC Seite 135
+* **2x Gauss Rifle** Schaden 4D CSC Seite 145, Scope
+* **6x Magazine für jede Waffe**
+
+### Rüstung
+
+* **6x Combat West and webbing** +4 Protection CSC 13
+* **3x Flak Jacket** +5 Protection CSC 13
+* **2x Sicherheitshelme** 
+
+### Reparatur-Ausrüstung
+
+* **3x Hand Computer**
+* **5x Hull repair kit**
+* **7x Vacc Suits**
+
+### Überlebens-Ausrüstung
+
+* **1x 10 man tent**
+* **1x solar water still**
+* **1x power generator with solar recharge unit**
+* **7x survival kits each with rations for one week**
+
 ## 📌 Anstehende Missionen
 <div class="quest-list">
   <div class="quest-item urgent">
-    <span>Beweise für den Verrat des Fetters an Klave finden. Er befindet sich auf Sink.</span>
+    <span>Klave auf Tyokh abliefern, wo er sich dem Exekutor stellen kann</span>
     <span class="quest-deadline">6 Wochen</span>
   </div>
+  <div class="quest-item urgent">
+    <span>Val Tredwell auf Axis treffen</span>
+    <span class="quest-deadline">9 Wochen</span>
+  </div>
   <div class="quest-item">
-    <span>Sheryl besitzt ein Alten Artefakt (Artefakt)</span>
+    <span>Sheryl besitzt ein Alten Artefakt (Altefakt)</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
   <div class="quest-item">
@@ -74,16 +109,12 @@ location: Sektor Trojan Reach - The Borderlands - Sink
     <span class="quest-deadline">keine Deadline</span>
   </div>
   <div class="quest-item">
-    <span>Impailer of Drinax Urheberrechtsverletzung von Runini.</span>
+    <span>Impailer of Drinax Urheberrechts-Verletzung von Punini.</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
-  <div class="quest-item urgent">
-    <span>Val Tredwell auf Axis treffen</span>
-    <span class="quest-deadline">9 Wochen</span>
-  </div>
-  <div class="quest-item">
+  <div class="quest-item done">
     <span>Jonas McDorothy ist ein imperialer Agent und vermutlich hinter dem Altefakt her.</span>
-    <span class="quest-deadline">keine Deadline</span>
+    <span class="quest-deadline">Abgeschlossen</span>
   </div>
   <div class="quest-item done">
     <span>Die Wahninnigen Urlauber auf Sperle</span>
