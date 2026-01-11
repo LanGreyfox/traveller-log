@@ -128,3 +128,49 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 * Mrs. Syria Bairami
 * Sheryl Neville
 * Jana Tique
+
+## Planung Erweiterungen für das Schiff
+
+Analyse von Walter:
+
+Basierend auf der Tatsache, dass wir aktuell von drei S2 Schiffen der Gedeco verfolgt werden,
+empfehle ich im Falle einses Aufeinandertreffens folgende Schiffserweiterungen.
+
+### Defensivmaßnahmen
+
+Wir verfügen bereits über eine starke Panzerung Crystaliron 4 und einen Sandcaster.
+
+### Offensivmaßnahmen
+
+Schaden des bestehenden Systems erhöhen. Qualität statt Quantität:
+
+| Modul | Empfehlung | Auswirkung |
+| :--- | :--- | :--- |
+| Waffe 1 | Point Defence Gauss Batteries | Automatische Missile Abwehr, benötigt dabei weniger Energie als die Laser Batterie. Allerdings benötigen die Türme Munition |
+| Waffe 2 | Missile Bay | Einsatz von Smart Missiles wie Multi Warhead um die S2 auf Abstand zu halten |
+
+### Elektronische Upgrades
+
+Aktuell sind unsere Sensoren sehr rudimentär. Daher empfehle ich den Einbau von Advanced Sensors. Das hilt uns die Gegner früher zu erfassen und ECM (elektronische Gegenmaßnahmen) einzuleiten.
+
+### Software Upgrades
+
+Evade/2 oder 3: Erhöht den Schwierigkeitsgrad für Gegner, euch zu treffen.
+Fire Control/2: Erhöht unsere Trefferwahrscheinlichkeit
+
+### Taktische Upgrades
+
+Unser größtes Problem ist aktuell aus meiner Sicht unsere Manövrierfähigkeit gegenüber den S2, da
+diese in der Regel Thrust 4 oder höher haben. Daher wäre ein Upgrade unseres M-Drives eine Überlegung wert.
+
+Noch besser wäre es natürlich erst gar nicht gesehen zu werden. Ein Stealth Paint macht es den S2 nicht nur schwieriger uns zu orten, ein Aufschalten auf unser Schiff wird dadurch auch erschwert.
+
+Stealth Improved 
+
+## Taktik im Falle eines Aufeinandertreffens
+
+Da unser Verhältnis aktuell aus 3:1 besteht, ist das Beste Verhalten im Kampf "Run & Gun".
+
+Die S2 auf Abstand halten, mit Smart Missiles und dabei versuchen so schnell wie möglich wegzuspringen.
+
+Von einer direkten Konfrontation würde ich aktuell dringend abraten.
