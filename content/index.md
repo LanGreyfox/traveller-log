@@ -20,7 +20,7 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 <div class="status-grid">
   <div class="status-card">
     <h4>BORDKASSE</h4>
-    <div class="status-value">1.233.400 Cr</div>
+    <div class="status-value">1.231.400 Cr</div>
   </div>
   <div class="status-card">
     <h4>DATUM (Imperial)</h4>
@@ -50,10 +50,15 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 * **2x Body Pistol** Schaden 2D CSC 142, schwer aufzusprüten
 * **1x Gauss Pistol** Schaden 3D, Armor Piercing 3, Auto 2 CSC 143
 * **2x Shotgun** Schaden 4D, CSC 145, Bulky Range 50
-* **4x Auto Pistol** Schaden 3D - 3
-* **4x Blades** Schaden 2D CSC Seite 135
+* **6x Auto Pistol** Schaden 3D - 3
+* **6x Blades** Schaden 2D CSC Seite 135
 * **2x Gauss Rifle** Schaden 4D CSC Seite 145, Scope
 * **6x Magazine für jede Waffe**
+
+Beim bergen der S2 wurden foglgende Gegenstände hinzugefügt:
+
+* **2x Auto Pistol** Schaden 3D - 3
+* **2x Blades** Schaden 2D CSC Seite 135
 
 ### Rüstung
 
@@ -64,7 +69,7 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 ### Reparatur-Ausrüstung
 
 * **3x Hand Computer**
-* **5x Hull repair kit**
+* **1x Hull repair kit**
 * **7x Vacc Suits**
 
 ### Überlebens-Ausrüstung
@@ -73,6 +78,10 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 * **1x solar water still**
 * **1x power generator with solar recharge unit**
 * **7x survival kits each with rations for one week**
+
+## 🔍 Stiffszustand
+
+Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair Kits wurden verbraucht). Allerdings ist der Tank beschäfigt und nur notdürftig geflickt worden. Er muss ordnungsgemäß in einem Raumdock gewartet werden.
 
 ## 📌 Anstehende Missionen
 <div class="quest-list">
