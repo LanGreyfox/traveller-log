@@ -1,7 +1,7 @@
 ---
-title: Far Trader A2L White Brothers "Explosive Wale" FTD8D9377-9BA
+title: Far Trader A2L "Zephyrus" FR0815FTZ4TW
 tl: 12
-location: Sektor Trojan Reach - The Borderlands - Sink
+location: Sektor Trojan Reach - The World Space Station Hangar C16
 ---
 
 # {{ $doc.title }}
@@ -13,14 +13,14 @@ location: Sektor Trojan Reach - The Borderlands - Sink
 | Hülle | 300 Tonnen |
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
-| Aktuelle Position | Sektor Trojan Reach - The Borderlands - Sink [Position](https://travellermap.com/?p=-91.881!13.585!7.7) |
+| Aktuelle Position | Sektor Trojan Reach - The Borderlands - The World Space Station Hangar C16 [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
 
 # Schiffs-Logbuch: "Explosive Wale"
 
 <div class="status-grid">
   <div class="status-card">
     <h4>BORDKASSE</h4>
-    <div class="status-value">1.231.400 Cr</div>
+    <div class="status-value">1.210.200 Cr</div>
   </div>
   <div class="status-card">
     <h4>DATUM (Imperial)</h4>
@@ -87,11 +87,11 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
 <div class="quest-list">
   <div class="quest-item urgent">
     <span>Klave auf Tyokh abliefern, wo er sich dem Exekutor stellen kann</span>
-    <span class="quest-deadline">6 Wochen</span>
+    <span class="quest-deadline">5 Wochen</span>
   </div>
   <div class="quest-item urgent">
     <span>Val Tredwell auf Axis treffen</span>
-    <span class="quest-deadline">9 Wochen</span>
+    <span class="quest-deadline">8 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Sheryl besitzt ein Alten Artefakt (Altefakt)</span>
@@ -99,7 +99,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
-    <span class="quest-deadline">Noch 39 Wochen</span>
+    <span class="quest-deadline">Noch 38 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Zoey ist das Ergebnis von Experimenten. Vielleicht ist jemand hinter ihr her</span>
@@ -107,7 +107,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Mathew Ryle aka Mathias Rühl ist in der nähe des glorreichen Imperiums.</span>
-    <span class="quest-deadline">Noch 12 Wochen</span>
+    <span class="quest-deadline">Noch 11 Wochen</span>
   </div>
   <div class="quest-item">
     <span>3x S2 Schiffe der Gedeco jagen uns</span>
@@ -119,6 +119,14 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Impailer of Drinax Urheberrechts-Verletzung von Punini.</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>N7 braucht dringend eine "Begleitung"</span>
+    <span class="quest-deadline">keine Deadline</span>
+  </div>
+  <div class="quest-item">
+    <span>Elehasai will dass Klave lebt. Ein Champion soll sich dem Executor stellen.</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
   <div class="quest-item done">
