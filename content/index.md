@@ -13,7 +13,7 @@ location: Sektor Trojan Reach - The World Space Station Hangar C16
 | Hülle | 300 Tonnen |
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
-| Aktuelle Position | Sektor Trojan Reach - The Borderlands - The World Space Station Hangar C16 [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
+| Aktuelle Position | Sektor Trojan Reach - The Borderlands - Tyokh Planet Arena [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
 
 # Schiffs-Logbuch: "Explosive Wale"
 
@@ -86,12 +86,8 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
 ## 📌 Anstehende Missionen
 <div class="quest-list">
   <div class="quest-item urgent">
-    <span>Klave auf Tyokh abliefern, wo er sich dem Exekutor stellen kann</span>
-    <span class="quest-deadline">5 Wochen</span>
-  </div>
-  <div class="quest-item urgent">
     <span>Val Tredwell auf Axis treffen</span>
-    <span class="quest-deadline">8 Wochen</span>
+    <span class="quest-deadline">7 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Sheryl besitzt ein Alten Artefakt (Altefakt)</span>
@@ -99,7 +95,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
-    <span class="quest-deadline">Noch 38 Wochen</span>
+    <span class="quest-deadline">Noch 37 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Zoey ist das Ergebnis von Experimenten. Vielleicht ist jemand hinter ihr her</span>
@@ -107,7 +103,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Mathew Ryle aka Mathias Rühl ist in der nähe des glorreichen Imperiums.</span>
-    <span class="quest-deadline">Noch 11 Wochen</span>
+    <span class="quest-deadline">Noch 10 Wochen</span>
   </div>
   <div class="quest-item">
     <span>3x S2 Schiffe der Gedeco jagen uns</span>
@@ -135,6 +131,10 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item done">
     <span>Die Wahninnigen Urlauber auf Sperle</span>
+    <span class="quest-deadline">Abgeschlossen</span>
+  </div>
+  <div class="quest-item done">
+    <span>Klave auf Tyokh abliefern, wo er sich dem Exekutor stellen kann</span>
     <span class="quest-deadline">Abgeschlossen</span>
   </div>
 </div>
