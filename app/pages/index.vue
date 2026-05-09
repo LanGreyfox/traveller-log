@@ -57,20 +57,39 @@ body {
 }
 
 .top-nav {
-  max-width: 1000px;
-  margin: 0 auto 20px;
-  padding: 15px 0;
-  border-bottom: 2px solid var(--traveller-border);
+  max-width: 1000px; /* Content Width */
+  margin: 20px auto 40px; /* Top reduced */
+  border-left: 4px solid var(--traveller-orange);
+  background: rgba(20, 20, 20, 0.9);
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+
+  /* Flex content to look good*/
+  display: flex;
 }
 
 .top-nav-link {
   display: inline-block;
-  color: var(--traveller-orange);
+  color: #d8d8d8;
   text-decoration: none;
   font-size: 1rem;
-  transition: all 0.3s ease;
+  transition: color 0.25s ease, transform 0.25s ease;
   margin-right: 30px;
-  padding-bottom: 5px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.top-nav-link:hover {
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.top-nav-link.active {
+  color: var(--traveller-green);
+  font-weight: bold;
+  background: rgba(46, 204, 113, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(46, 204, 113, 0.25);
 }
 
 .top-nav-link:hover {
