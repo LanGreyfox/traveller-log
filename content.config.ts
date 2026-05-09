@@ -8,6 +8,7 @@ export default defineContentConfig({
       // Hier definierst du deine Traveller-Variablen
       schema: z.object({
         title: z.string(),
+        location: z.string().optional(),
         tl: z.number().optional(),
         credits: z.string().optional(),
         ship_day: z.string().optional(),
