@@ -23,6 +23,7 @@ crew_size: 2
 | Hülle | 60 Tonnen |
 | Sprungantrieb | Jump-1 |
 | TL | 13 |
+| Aktuelle Position | Sektor Trojan Reach - The Borderlands - The World Space Station [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
 | Panzerung | Level 2 Standard |
 | Hardpoints | 2 |
 | Sensoren | Basic Civilion |
@@ -30,7 +31,7 @@ crew_size: 2
 | Software | Intellect, Library, Flight Control/1 |
 
 # Crew-Zusammensetzung (Aslan)
-* **Besatzung**: 2 Personen
+* **Besatzung**: 3 Personen
 * **Spezialisierte Fähigkeiten**: Stealth, Sensor-Craft, Navigations-Experten
 * **Sprachkenntnisse**: Basic Imperial + Alien Dialects (+6 Languages)
 

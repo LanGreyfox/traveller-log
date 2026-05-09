@@ -1,7 +1,7 @@
 ---
-title: Far Trader A2L "Zephyrus" FR0815FTZ4TW
+title: Far Trader A2L "Zephyrus"
 tl: 12
-location: Sektor Trojan Reach - The World Space Station Hangar C16
+location: Sektor Trojan Reach - Tyokh Planet Arena
 ---
 
 # {{ $doc.title }}
@@ -15,7 +15,7 @@ location: Sektor Trojan Reach - The World Space Station Hangar C16
 | TL | {{ $doc.tl }} |
 | Aktuelle Position | Sektor Trojan Reach - The Borderlands - Tyokh Planet Arena [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
 
-# Schiffs-Logbuch: "Explosive Wale"
+# Schiffs-Logbuch: "Zephyrus"
 
 <div class="status-grid">
   <div class="status-card">
@@ -191,3 +191,5 @@ Da unser Verhältnis aktuell aus 3:1 besteht, ist das Beste Verhalten im Kampf "
 Die S2 auf Abstand halten, mit Smart Missiles und dabei versuchen so schnell wie möglich wegzuspringen.
 
 Von einer direkten Konfrontation würde ich aktuell dringend abraten.
+
+## 📋 Ship ID: FR0815FTZ4TW
