@@ -1,5 +1,8 @@
 <script setup lang="ts">
 const { data: home } = await useAsyncData(() => queryCollection('content').path('/').first())
+const { data: aslan } = await useAsyncData(() => queryCollection('content').path('/s2-aslan-scout').first())
+
+const showAslan = ref(false)
 
 useSeoMeta({
   title: home.value?.title,
@@ -8,9 +11,14 @@ useSeoMeta({
 </script>
 
 <template>
+  <div class="top-nav">
+    <a class="top-nav-link" :class="{ active: !showAslan }" @click="showAslan = false">Zephyrus (A2L)</a>
+    <a class="top-nav-link" :class="{ active: showAslan }" @click="showAslan = true">Aslan Scout</a>
+  </div>
+  
   <div class="content-wrapper">
-    <ContentRenderer v-if="home" :value="home" />
-    <div v-else>Home not found</div>
+    <ContentRenderer v-if="home && !showAslan" id="page-home" :value="home"></ContentRenderer>
+    <ContentRenderer v-if="aslan && showAslan" id="page-s2-aslan-scout" :value="aslan"></ContentRenderer>
   </div>
 </template>
 
@@ -38,7 +46,7 @@ body {
 /* Content Container */
 .content-wrapper {
   max-width: 1000px; /* Content Width */
-  margin: 40px auto; /* 'auto' align horicontally */
+  margin: 20px auto 40px; /* Top reduced */
   border-left: 4px solid var(--traveller-orange);
   background: rgba(20, 20, 20, 0.9);
   padding: 40px;
@@ -46,7 +54,32 @@ body {
 
   /* Flex content to look good*/
   display: flex;
-  flex-direction: column;
+}
+
+.top-nav {
+  max-width: 1000px;
+  margin: 0 auto 20px;
+  padding: 15px 0;
+  border-bottom: 2px solid var(--traveller-border);
+}
+
+.top-nav-link {
+  display: inline-block;
+  color: var(--traveller-orange);
+  text-decoration: none;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  margin-right: 30px;
+  padding-bottom: 5px;
+}
+
+.top-nav-link:hover {
+  color: #fff;
+}
+
+.top-nav-link.active {
+  color: var(--traveller-green);
+  font-weight: bold;
 }
 
 /* Header in Traveller-Look */
