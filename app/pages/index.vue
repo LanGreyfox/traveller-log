@@ -49,11 +49,16 @@ body {
   margin: 20px auto 40px; /* Top reduced */
   border-left: 4px solid var(--traveller-orange);
   background: rgba(20, 20, 20, 0.9);
-  padding: 40px;
+  padding: 30px; /* Reduced padding for smaller screens */
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  width: 100%; /* Ensure it uses full width on mobile */
+}
 
-  /* Flex content to look good*/
-  display: flex;
+@media (max-width: 600px) {
+    .content-wrapper {
+        padding: 20px; /* More padding for smaller screens */
+        margin: 10px; /* Added margin so it doesn't touch screen edges */
+    }
 }
 
 .top-nav {
@@ -117,24 +122,35 @@ a {
     color: var(--traveller-orange);
 }
 
+/* General Responsive Fixes */
+body * {
+    box-sizing: border-box;
+}
+
+pre code {
+  display: block; 
+  overflow-x: auto; /* Key fix for horizontal scrolling in code blocks */
+  padding: 15px;
+  background: #222;
+  color: var(--traveller-green);
+  border-radius: 4px;
+}
+
 /* Styles for tables */
 table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-  border: 1px solid var(--traveller-green);
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    border: 1px solid var(--traveller-green);
+    table-layout: fixed; /* Enforces consistent column widths */
 }
 
-th {
-  background-color: rgba(46, 204, 113, 0.2);
-  color: var(--traveller-green);
-  text-align: left;
-  padding: 10px;
-}
-
-td {
-  padding: 8px;
-  border-bottom: 1px solid #222;
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #222;
+    /* Critical fix for preventing overflow in cells */
+    word-wrap: break-word;
+    white-space: normal !important; 
 }
 
 code {
