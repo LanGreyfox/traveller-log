@@ -87,7 +87,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
 <div class="quest-list">
   <div class="quest-item urgent">
     <span>Val Tredwell auf Axis treffen</span>
-    <span class="quest-deadline">7 Wochen</span>
+    <span class="quest-deadline">6 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Sheryl besitzt ein Alten Artefakt (Altefakt)</span>
@@ -95,7 +95,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
-    <span class="quest-deadline">Noch 37 Wochen</span>
+    <span class="quest-deadline">Noch 36 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Zoey ist das Ergebnis von Experimenten. Vielleicht ist jemand hinter ihr her</span>
@@ -103,7 +103,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Mathew Ryle aka Mathias Rühl ist in der nähe des glorreichen Imperiums.</span>
-    <span class="quest-deadline">Noch 10 Wochen</span>
+    <span class="quest-deadline">Noch 9 Wochen</span>
   </div>
   <div class="quest-item">
     <span>3x S2 Schiffe der Gedeco jagen uns</span>
@@ -150,7 +150,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
 
 Analyse von Walter:
 
-Basierend auf der Tatsache, dass wir aktuell von drei S2 Schiffen der Gedeco verfolgt werden,
+Basierend auf der Tatsache, dass wir aktuell von einem S2 Schiff der Gedeco verfolgt werden,
 empfehle ich im Falle einses Aufeinandertreffens folgende Schiffserweiterungen.
 
 ### Defensivmaßnahmen
@@ -168,7 +168,7 @@ Schaden des bestehenden Systems erhöhen. Qualität statt Quantität:
 
 ### Elektronische Upgrades
 
-Aktuell sind unsere Sensoren sehr rudimentär. Daher empfehle ich den Einbau von Advanced Sensors. Das hilt uns die Gegner früher zu erfassen und ECM (elektronische Gegenmaßnahmen) einzuleiten.
+Aktuell sind unsere Sensoren sehr rudimentär. Daher empfehle ich den Einbau von Advanced Sensors. Das hilft uns die Gegner früher zu erfassen und ECM (elektronische Gegenmaßnahmen) einzuleiten.
 
 ### Software Upgrades
 
