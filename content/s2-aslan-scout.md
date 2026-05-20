@@ -73,11 +73,29 @@ SYSTEMS: All operational
 SPACE-WORTHINESS: Prime condition
 ```
 
-**Nächste geplante Upgrades**:
-1. Advanced Sensors (Erster Schritt für taktische Überlegenheit)
-2. Stealth Improved / Enhanced Camouflage
-3. Point Defence System (für Selbstverteidigung)
-4. Missile Bay Module
+## 📆 Mission Log Entries
+
+<div class="quest-list">
+  <div class="quest-item done">
+    <span>Entdeckung und Besitznahme von S2-Hangar B03 auf World Space Station</span>
+    <span class="quest-deadline" style="text-decoration: line-through; opacity: 0.6;">Abgeschlossen</span>
+  </div>
+  
+  <div class="quest-item">
+    <span>Kontaktaufnahme in Richtung glorreiches Imperium</span>
+    <span class="quest-deadline" style="color: #e74c3c; animation: pulse 2s infinite;">Unbekannt</span>
+  </div>
+  
+  <div class="quest-item">
+    <span>Schleichen zu dem verbleibenden S2 Schiff</span>
+    <span class="quest-deadline">Keine Deadline</span>
+  </div>
+  
+  <div class="quest-item">
+    <span>Kontakt zur Zephyrus-Crew über Comms (verschlüsselt)</span>
+    <span class="quest-deadline" style="color: #f39c12; border: 1px solid #f39c12; padding: 2px 8px;">Ungewiss</span>
+  </div>
+</div>
 
 ## 📋 Ship ID: S2-Aslan-SC0816FTASX
 
