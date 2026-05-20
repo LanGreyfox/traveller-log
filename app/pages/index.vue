@@ -57,7 +57,7 @@ body {
 @media (max-width: 600px) {
     .content-wrapper {
         padding: 20px; /* More padding for smaller screens */
-        margin: 10px; /* Added margin so it doesn't touch screen edges */
+        margin: auto; /* Added margin so it doesn't touch screen edges */
     }
 }
 
