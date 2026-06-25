@@ -13,14 +13,14 @@ location: Sektor Trojan Reach - Tyokh Planet Arena
 | Hülle | 300 Tonnen |
 | Sprungantrieb | Jump-2 |+
 | TL | {{ $doc.tl }} |
-| Aktuelle Position | Sektor Trojan Reach - The Borderlands - Tyokh Planet Arena [Position](https://travellermap.com/?p=-91.937!13.454!8.1) |
+| Aktuelle Position | Sektor Trojan Reach - Dpres - Acis [Position](https://travellermap.com/?p=-99.271%2121.29%218.45) |
 
 # Schiffs-Logbuch: "Zephyrus"
 
 <div class="status-grid">
   <div class="status-card">
     <h4>BORDKASSE</h4>
-    <div class="status-value">1.210.200 Cr</div>
+    <div class="status-value">1.860.000 Cr</div>
   </div>
   <div class="status-card">
     <h4>DATUM (Imperial)</h4>
@@ -31,7 +31,7 @@ location: Sektor Trojan Reach - Tyokh Planet Arena
 ## 📦 Aktuelle Ladung
 | Menge | Gut | Wert (geschätzt) | Herkunft |
 | :--- | :--- | :--- | :--- |
-| - | - | - | - |
+| 95 Tonnen Minor Cargo | Landmaschinen | 3.040.000 | Tyokh |
 
 ## 🔨 Schiffs-Ausrüstung
 * **Panzerung** Level 4 Crystaliron
@@ -86,8 +86,8 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
 ## 📌 Anstehende Missionen
 <div class="quest-list">
   <div class="quest-item urgent">
-    <span>Val Tredwell auf Axis treffen</span>
-    <span class="quest-deadline">6 Wochen</span>
+    <span>Val Tredwell auf Acis treffen</span>
+    <span class="quest-deadline">0 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Sheryl besitzt ein Alten Artefakt (Altefakt)</span>
@@ -95,7 +95,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Wir sollen die Prinzessin auf Drinax wieder aufsuchen</span>
-    <span class="quest-deadline">Noch 36 Wochen</span>
+    <span class="quest-deadline">Noch 30 Wochen</span>
   </div>
   <div class="quest-item">
     <span>Zoey ist das Ergebnis von Experimenten. Vielleicht ist jemand hinter ihr her</span>
@@ -103,9 +103,9 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
   </div>
   <div class="quest-item">
     <span>Mathew Ryle aka Mathias Rühl ist in der nähe des glorreichen Imperiums.</span>
-    <span class="quest-deadline">Noch 9 Wochen</span>
+    <span class="quest-deadline">Noch 3 Wochen</span>
   </div>
-  <div class="quest-item">
+  <div class="quest-item done">
     <span>3x S2 Schiffe der Gedeco jagen uns</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
@@ -121,7 +121,7 @@ Hülle wurde nach dem Schiffsgefecht nach Sink wieder reapriert (4x Hull Repair 
     <span>N7 braucht dringend eine "Begleitung"</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
-  <div class="quest-item">
+  <div class="quest-item done">
     <span>Elehasai will dass Klave lebt. Ein Champion soll sich dem Executor stellen.</span>
     <span class="quest-deadline">keine Deadline</span>
   </div>
